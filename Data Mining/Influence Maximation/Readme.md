@@ -2,6 +2,7 @@
 
     In this project influence Maximization is implemented under Independent Cascade Model using Greedy Maximal 
     Marginal Selection algorithm and further optimized it keeping same spread.
+# To Run:
 
     -File greedy.cpp is the used to run greedy algorithm. To compile this code, do it with following command:
      g++ -std=c++11 greedy.cpp -o greedy
@@ -15,7 +16,8 @@
      path_of_input_file_with_generated_graphs will be:
      graphs/g
 
-     -File optimized.cpp is the used to run optimized algorithm. To compile this code, do it with following command:
+     -File optimized.cpp is the used to run optimized algorithm. To compile this code, do it with following 
+     command:
      g++ -std=c++11 optimized.cpp -o opt
 
      To run this code, do it with following command:
